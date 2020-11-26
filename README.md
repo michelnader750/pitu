@@ -5,12 +5,14 @@ A simple micro-SaaS for URL shortening.
 
 AWS API URL => http://api.pitu750.tk:3001/links
 
-Example  GET  => http://api.pitu750.tk:3001/links/vp8Lu
+Example  
 
-         GET  => http://api.pitu750.tk:3001/links/vp8Lu/stats        
+GET  => http://api.pitu750.tk:3001/links/vp8Lu
 
-         POST => http://api.pitu750.tk:3001/links/         
+GET  => http://api.pitu750.tk:3001/links/vp8Lu/stats        
 
-                {
-                 "url": "https://www.culturadepaz.org.br"   
-                }
+POST => http://api.pitu750.tk:3001/links/         
+
+       {
+        "url": "https://www.culturadepaz.org.br"   
+       }
