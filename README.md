@@ -24,4 +24,6 @@ Thanks for visiting the pitu750 repository,
 ## Michel Nader
 http://www.pitu750.tk/XJ5pU
 
-This project was developed during the week promoted by the teachers Luiz Duarte and Daniel Castro, which I sincerely thank for the fantastic learning. Thank you so much, Teachers!!!
+This project was developed during the Web Full Stack JS Week promoted by the teachers Luiz Duarte and Daniel Castro, which I sincerely thank for the fantastic learning. Thank you so much, Teachers!!!
+
+http://www.pitu750.tk/uw5n0
